@@ -1,0 +1,1 @@
+UPDATE Prato SET preco = 62.90 WHERE id_prato = 1;
