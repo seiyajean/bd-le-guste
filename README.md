@@ -29,8 +29,6 @@ Versionamento: Git & GitHub
 
 📁 3. Estrutura do Repositório
 bd-le-guste/
-│
-├── /scripts/
 │   ├── 01_create_tables.sql       → Criação das tabelas e relacionamentos
 │   ├── 02_insert_dados.sql        → População das tabelas
 │   ├── 03_select_consultas.sql    → Consultas SELECT variadas
